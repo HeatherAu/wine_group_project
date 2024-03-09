@@ -10,3 +10,6 @@ For preliminary data analysis...
     - Created a table that reports the number of observation in each attribute
     - Found the average of each attribute
     - Found the number of na (which is 0)
+
+Changed the visualization to compare multiple attributes to alcohol content
+The data was scaled and changed before plotting (through facet_wrap)
