@@ -1,4 +1,7 @@
 # wine_group_project
+
+Intro should be done
+
 Changed the visualization to compare multiple attributes to alcohol content
 The data was scaled and changed before plotting (through facet_wrap)
 
