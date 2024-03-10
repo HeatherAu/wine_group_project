@@ -15,3 +15,5 @@ Revised the introduction
 Split the wine_tidy data intro training and testing data so the training data can be summarized
 
 Did some formatting and added in the stuff we needed to do, pls add ur student # in :)
+
+Added student number, and Method & Expected Outcomes and Significance
