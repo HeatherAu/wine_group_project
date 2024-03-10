@@ -17,3 +17,6 @@ Split the wine_tidy data intro training and testing data so the training data ca
 Did some formatting and added in the stuff we needed to do, pls add ur student # in :)
 
 Added student number, and Method & Expected Outcomes and Significance
+
+Still need student number and the last part of expected outcomes and significance 
+Also wrote my changes underneath
