@@ -2,6 +2,7 @@
 Got rid of rubric items and putting our response in an indented quote block
 
 # wine_group_project
+Added commentary of visuals and tables (in progress)
 
 Intro should be done
 
