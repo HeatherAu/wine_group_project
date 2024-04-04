@@ -1,3 +1,6 @@
+# group_report
+Got rid of rubric items and putting our response in an indented quote block
+
 # wine_group_project
 
 Intro should be done
