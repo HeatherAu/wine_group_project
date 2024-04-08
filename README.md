@@ -1,4 +1,8 @@
 # group_report
+Added narration to how we found our predictors + citations (also make sure to add set.seed (1) so we don't get different results everytime the code is ran)
+
+Added a way to find a good subset of predictors
+
 Got rid of rubric items and putting our response in an indented quote block
 
 # wine_group_project
