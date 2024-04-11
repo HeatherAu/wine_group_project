@@ -1,7 +1,7 @@
 # group_report
 Created the classifer and confusion matrix as well as evaluate the accuracy, precision and recall
 Added narration but still needs to be proofread
-Descussion still needs to be written
+Discussion still needs to be written
 
 Added narration to how we found our predictors + citations (also make sure to add set.seed (999) so we don't get different results everytime the code is ran)
 
