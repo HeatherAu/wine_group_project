@@ -1,5 +1,5 @@
 # group_report
-Finsihed writing the summary
+Finished writing the discussion but need to proofread
 
 Created the classifer and confusion matrix as well as evaluate the accuracy, precision and recall
 Added narration but still needs to be proofread
