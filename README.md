@@ -1,4 +1,6 @@
 # group_report
+Finsihed writing the summary
+
 Created the classifer and confusion matrix as well as evaluate the accuracy, precision and recall
 Added narration but still needs to be proofread
 Discussion still needs to be written
@@ -32,8 +34,5 @@ Added student number, and Method & Expected Outcomes and Significance
 
 Still need student number and the last part of expected outcomes and significance 
 Also wrote my changes underneath
-
-
-##**TODO**##
 
 
