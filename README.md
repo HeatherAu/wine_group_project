@@ -1,4 +1,6 @@
 # group_report
+Checked for grammar mistakes
+
 Finished writing the discussion but need to proofread
 
 Created the classifer and confusion matrix as well as evaluate the accuracy, precision and recall
